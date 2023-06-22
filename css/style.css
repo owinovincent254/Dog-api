@@ -1,0 +1,21 @@
+body {
+  background-color: red;
+}
+body .container h1 {
+  text-align: center;
+}
+body .container hr {
+  border: 2px solid grey;
+}
+body .container div {
+  display: flex;
+  justify-content: center;
+}
+body .container button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 1em;
+  padding: 1.5em;
+  border-radius: 5px;
+  border: none;
+}
